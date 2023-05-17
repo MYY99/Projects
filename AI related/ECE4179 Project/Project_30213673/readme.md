@@ -1,4 +1,4 @@
-**MUST READ**
+*Investigating the Performance of a Capsule Network in Digit Classification Task*
 1. paste trained_model28.pkl into the folder "result_0522"
 2. paste trained_model56.pkl into the folder "result2_0522"
 3. paste CNN.pkl and CNN56.pkl into the folder "result_cnn_0522"
