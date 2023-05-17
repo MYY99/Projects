@@ -8,9 +8,15 @@ perform a gap analysis and make recommendations. The future lighting at Monash M
 
 ## Design Specification and Project Deliverables
 (i) Select relevant visual and non-visual parameters to be used in profiling light on Monash Malaysia campus with justification.
+
 (ii) Select relevant subjective measures of light quality (comfort, naturalness etc).
+
 (iii) Select standards to be used for benchmarking lighting on our campus.
+
 (iv) Design an experiment to (a) measure and record the chosen visual and non-visual metrics and (b) conduct a subjective evaluation of the lighting in significant spaces on the campus.
+
 (v) Analyse the data to perform a gap analysis with respect to (a) selected standards and (b) research findings in the field.
+
 (vi) Make recommendations for future lighting on Monash Malaysia Campus.
+
 (vii) Discuss the systemic challenges if any that you faced in this implementation.
