@@ -1,7 +1,7 @@
 # Investigating the Performance of a Capsule Network in Digit Classification Task
 Hinton et al. [1] and Sabour et al. [2] presented capsule network with dynamic routing, an approach closer to replicating the human vision, to resolve the fundamental limitations of CNNs: translational equivariance [3], no build-in understanding of 3D space, and Picasso problem [4]. 
 
-This project investigates the performance of a Capsule Network (CapsNet) in digit classification task. The code is based on https://github.com/XifengGuo/CapsNet-Pytorch.
+This project investigates the performance of a Capsule Network (CapsNet) in digit classification task. The code is modified based on [CapsNet-Pytorch](https://github.com/XifengGuo/CapsNet-Pytorch).
 
 ![image](https://github.com/MYY99/Projects/assets/133868293/5ef92f12-249c-43b5-9a5f-e9d82d91cda8)
 
