@@ -11,8 +11,11 @@ All networks have been trained solely on MNIST or padded MNIST. However, CapsNet
 
 ## References
 [1] G. E. Hinton, A. Krizhevsky, and S. D. Wang, “Transforming Auto-Encoders,” in  International conference on artificial neural network, 2011, pp. 44-51, doi:  10.1007/978-3-642-21735-7_6. 
-[2] S. Sabour, N. Frosst, and G. E. Hinton, “Dynamic routing between capsules,” in Advances in neural information processing systems 30, 2017. 
+
+[2] S. Sabour, N. Frosst, and G. E. Hinton, “Dynamic routing between capsules,” in Advances in neural information processing systems 30, 2017.
+
 [3] L. Alzubaidi et al., “Review of deep learning: concepts, CNN architectures, challenges, applications, future directions,” Journal of Big 
 Data, vol. 8, no. 53, Mar. 2021. 
+
 [4] J. D. Kelleher, “The Future of Deep Learning,” in Deep Learning. Cambridge, U.S: MIT Press, 2019.
 
