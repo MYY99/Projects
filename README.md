@@ -7,3 +7,5 @@
 - Autonomous Puck Handling Robot
 3) Others
 - Solid State Lighting
+
+Note: All other projects not listed here were undertaken within the scope of my employment.
