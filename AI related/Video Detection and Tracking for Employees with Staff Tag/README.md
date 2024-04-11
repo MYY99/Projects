@@ -4,7 +4,6 @@
 ## Built with
 - Python
 - PyTorch
-- TensorFlow
 
 ## Main Achievements
 - Designed and implemented a 3-stage deep learning solution (Human Detection, Staff Tag Classification, and Human Tracking), for detecting and tracking an employee with staff tag in a video using Python and Pytorch
