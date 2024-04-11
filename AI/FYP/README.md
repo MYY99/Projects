@@ -18,14 +18,14 @@ DARTS uses unrolling method to approach the bilevel optimization search problem 
 Reference Code: https://github.com/khanrc/pt.darts/tree/master (DARTS implementation)
 
 ## Overview of HyperDARTS that integrates hypernetworks into DARTS
-![overview](images/hypernetwork_v2.jpg)
+<img src="images/hypernetwork_v2.jpg" width="800">
 
 ## DARTS vs. HypereDARTS
 ### DARTS
-![DARTS](images/darts_overview.jpg)
+<img src="images/darts_overview.jpg" width="800">
 
 ### HyperDARTS
-![HyperDARTS](images/hyperdarts_overview.jpg)
+<img src="images/hyperdarts_overview.jpg" width="800">
 
 # Poster
 ![poster](images/poster.png)
