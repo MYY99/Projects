@@ -4,7 +4,7 @@
 - Microsoft Excel
 - MATLAB
 - Python
-- Seaborn
+- seaborn
 
 ## Achievements
 - Created the ProLiM lighting dataset by collecting and profiling visual and non-visual lighting data in teaching and non-teaching spaces on campus
