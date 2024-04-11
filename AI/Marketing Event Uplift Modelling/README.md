@@ -13,9 +13,9 @@ Understanding the impact of marketing events on footfall is crucial for business
 Traditional marketing attribution models often struggle to capture the complex and nonlinear relationships between marketing events and foot traffic. As a result, there is a growing need for advanced analytical techniques, such as Marketing Mix Modelling (MMM), to provide more accurate insights into the effectiveness of marketing campaigns.
 
 ## Description
-<img src="images/uplift.png" alt="Example Image: Footfall with and without events." width="500">
+<img src="images/uplift.png" alt="Example Image: Footfall with and without events." width="600">
 
-Example image showing model outcomes: footfall with and without events.
+Fig. 1. Example image showing model outcomes: footfall with and without events.
 
 This project addresses this need by adapting and implementing MMM to specifically focus on quantifying the footfall uplift from marketing events. In addition to adaptation and implementation, enhancements to the MMM have resulted in a 20% performance boost through optimizing models tailored to diverse event characteristics.
 

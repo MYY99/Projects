@@ -11,9 +11,9 @@
 Face recognition systems are essential in various applications, but some often struggle under low-light conditions due to reduced image quality and visibility. In real-world scenarios, such as surveillance or nighttime photography, accurately identifying faces becomes challenging. Traditional face recognition models are not optimized for low-light conditions, leading to decreased performance and reliability.
 
 ## Description
-<img src="images/face_recognition.png" alt="Reference image [1] showing low-light face recognition." width="500">
+<img src="images/face_recognition.png" alt="Reference image [1] showing low-light face recognition." width="600">
 
-Reference image [1] showing low-light face recognition.
+Fig. 1. Reference image [1] showing low-light face recognition.
 
 This project addresses the need for robust face recognition systems in low-light environments by designing and implementing a 2-stage deep learning solution. Leveraging PyTorch, the project consists of two main stages: Low-Light Image Enhancement and Face Recognition.
 

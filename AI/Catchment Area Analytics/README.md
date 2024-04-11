@@ -12,7 +12,7 @@ Understanding the catchment area of a store is crucial for retail businesses to 
 ## Description
 <img src="images/catchment.png" alt="Reference image [1] showing model outcomes: the catchment area of a store." width="500">
 
-Reference image [1] showing model outcomes: the catchment area of a store. 
+Fig. 1. Reference image [1] showing model outcomes: the catchment area of a store. 
 
 This project addresses the need for more sophisticated catchment area analysis by designing and implementing an enhanced version of the Huff Gravity Model. Drawing from methodologies outlined in cutting-edge research papers, the project utilizes Python to develop a robust analytical framework.
 

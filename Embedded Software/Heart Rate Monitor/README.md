@@ -11,6 +11,8 @@ A heart rate monitor is an instrument that is used to measure your heart rate an
 
 <img src="images/commercial.png" alt="commercial finger-clip heart rate monitor" width="300">
 
+Fig. 1. A commercial finger-clip heart rate monitor.
+
 
 After completing this project you will:  
 1) Have created a “Heart Rate Monitor” that will show your heart rate on a 
@@ -29,8 +31,10 @@ real world
 ## Prototype
 <img src="images/bare.png" alt="The finger-clip heart rate monitor in bare form." width="500">
 
-The finger-clip heart rate monitor in bare form.
+Fig. 2. The finger-clip heart rate monitor in bare form.
+
+<br>
 
 <img src="images/heart-rate-monitor.jpg" alt="setup">
 
-The actual setup...
+Fig. 3. The actual setup...

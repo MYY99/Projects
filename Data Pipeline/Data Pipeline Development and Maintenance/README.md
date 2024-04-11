@@ -14,9 +14,9 @@
 In today's data-driven world, businesses rely heavily on data pipelines to collect, process, and analyze vast amounts of data for decision-making and business intelligence purposes. A well-designed and maintained data pipeline is essential for ensuring that data flows smoothly from its source to its destination, enabling timely and accurate insights.
 
 ## Description
-<img src="images/data.jpg" alt="Reference image [1] showing a high-level overview of a data pipeline." width="500">
+<img src="images/data.jpg" alt="Reference image [1] showing a high-level overview of a data pipeline." width="800">
 
-Reference image [1] showing a high-level overview of a data pipeline.
+Fig. 1. Reference image [1] showing a high-level overview of a data pipeline.
 
 This project focuses on the development and maintenance of a robust data pipeline to support various business intelligence and analytics requirements. The pipeline is designed to handle both real-time and batch data processing, allowing for the analysis of diverse datasets related to customer behavior, journey analytics, returning customer rates, dwell time, occupancy levels, etc.
 

@@ -21,10 +21,10 @@ Reference Code: https://github.com/khanrc/pt.darts/tree/master (DARTS implementa
 ![overview](images/hypernetwork_v2.jpg)
 
 ## DARTS vs. HypereDARTS
-Darts
+### DARTS
 ![DARTS](images/darts_overview.jpg)
 
-HyperDARTS
+### HyperDARTS
 ![HyperDARTS](images/hyperdarts_overview.jpg)
 
 # Poster

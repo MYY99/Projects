@@ -17,7 +17,7 @@ This project addresses the need for precise and automated employee tracking by i
 
 <img src="images/staff.jpg" alt="Reference image [1] showing video detection and tracking for employees with staff tag." width="500">
 
-Reference image [1] showing video detection and tracking for employees with staff tag.
+Fig. 1. Reference image [1] showing video detection and tracking for employees with staff tag.
 
 ### Stage 1: Human Detection
 In the initial stage, the project utilizes deep learning techniques to detect human figures within a video stream. This stage serves as the foundation for subsequent steps by accurately identifying individuals present in the video.

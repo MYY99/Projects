@@ -14,9 +14,9 @@ Understanding the behavior and preferences of shoppers in shopping malls is cruc
 To address this challenge, this project implements a comprehensive 3-stage machine learning solution for profiling shopping mall shoppers.
 
 ### Stage 1: Store Footfall Clustering
-<img src="images/shopper.png" alt="Example image showing footall patterns of different stores in a shopping mall." width="500">
+<img src="images/shopper.png" alt="Example image showing footall patterns of different stores in a shopping mall." width="600">
 
-Example image showing footall patterns of different stores in a shopping mall.
+Fig. 1. Example image showing footall patterns of different stores in a shopping mall.
 
 In the first stage, the project employs clustering techniques to group stores based on their footfall patterns. This process categorizes stores into clusters with similar shopper traffic, facilitating the quantitative identification of distinct store groups within the mall.
 
