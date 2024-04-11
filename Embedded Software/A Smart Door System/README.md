@@ -19,9 +19,9 @@ This project aims to design a smart door system that can be used to detect prese
 
 ## Prototype
 Please don't mind the ugly prototype... We rushed it out for demonstration purpose only (aesthetics and tidiness put aside for a moment :D). 
-![prototype1](https://github.com/MYY99/Projects/assets/133868293/446669e1-8582-4a4b-871a-be30875c2db5)
+<img src="https://github.com/MYY99/Projects/assets/133868293/446669e1-8582-4a4b-871a-be30875c2db5" width="600">
 
-![prototype2](https://github.com/MYY99/Projects/assets/133868293/f609306e-8060-4028-9f8d-cb4027bde30e)
+<img src="https://github.com/MYY99/Projects/assets/133868293/f609306e-8060-4028-9f8d-cb4027bde30e" width="400">
 
 ## System Design
 ### Features 1 and 4: IoT Sensor, Network, and Door Lock System
