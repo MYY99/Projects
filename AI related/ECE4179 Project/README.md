@@ -1,12 +1,17 @@
 # Investigating the Performance of a Capsule Network in Digit Classification Task
+## Built with
+- Python
+- PyTorch
+
+## Background and Description
 Hinton et al. [1] and Sabour et al. [2] presented capsule network with dynamic routing, an approach closer to replicating the human vision, to resolve the fundamental limitations of CNNs: translational equivariance [3], no build-in understanding of 3D space, and Picasso problem [4]. 
 
-This project investigates the performance of a Capsule Network (CapsNet) in digit classification task. The code is based on [XifengGuo/CapsNet-Pytorch](https://github.com/XifengGuo/CapsNet-Pytorch).
+This project designed and conducted experiments to demonstrate the effectiveness of a Capsule Network (CapsNet) in a multi-label image classification task that was not addressed in the original paper. The code is based on [XifengGuo/CapsNet-PyTorch](https://github.com/XifengGuo/CapsNet-PyTorch).
 
-![image](https://github.com/MYY99/Projects/assets/133868293/5ef92f12-249c-43b5-9a5f-e9d82d91cda8)
+![capsnet](images/capsnet.jpg)
 
 ## Results
-![image](https://github.com/MYY99/Projects/assets/133868293/ca851a27-0da2-47ac-8ab5-aa3cb9e13fbc)
+![image](images/results_capsnet.png)
 All networks have been trained solely on MNIST or padded MNIST. However, CapsNet is capable of performing multi-label image classification despite being trained exclusively on single-label images.
 
 ## References
