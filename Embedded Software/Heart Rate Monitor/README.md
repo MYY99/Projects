@@ -1,4 +1,4 @@
-# A Heart Rate Monitor
+# Heart Rate Monitor
 ## Built with
 - C
 - Programmable System-on-Chip (PSoC)
