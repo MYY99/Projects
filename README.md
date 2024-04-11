@@ -15,5 +15,3 @@
 - Data Pipeline Development and Maintenance
 4) Solid State Lighting
 - Profiling Lighting on Monash Malaysia Campus - ProLiM 2022
-
-Note: All other projects not listed here were undertaken within the scope of my employment.
