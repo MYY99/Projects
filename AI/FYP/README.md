@@ -20,7 +20,7 @@ Reference Code: https://github.com/khanrc/pt.darts/tree/master (DARTS implementa
 ## Overview of HyperDARTS that integrates hypernetworks into DARTS
 <img src="images/hypernetwork_v2.jpg" width="800">
 
-## DARTS vs. HypereDARTS
+## DARTS vs. HyperDARTS
 ### DARTS
 <img src="images/darts_overview.jpg" width="800">
 
